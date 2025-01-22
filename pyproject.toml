@@ -1,0 +1,9 @@
+[project]
+name = "django-mongodb-tutorial"
+version = "0.1.0"
+dependencies = [
+    "django-mongodb-backend",
+]
+
+[tool.setuptools]
+packages = ["tutorial"]
